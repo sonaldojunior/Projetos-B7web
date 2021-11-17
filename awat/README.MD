@@ -1,1 +1,1 @@
-executamos um tamplate, em aula com Professor Bonieky.
+executamos um tamplate de um site já responsivo, em aula com Professor Bonieky.
